@@ -4,3 +4,5 @@ probando a hacer un readme desde github para git
 estoy editando para hacer un pull local, esta es la origin/master
 
 edicion para probar el comando $git pull origin/master
+
+editando desde master para hacer un push
